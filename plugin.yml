@@ -1,0 +1,10 @@
+name: NoNetherRoof
+main: "max.NoNetherRoof"
+
+version: 1.0.0
+author: max
+
+api-version: "1.20"
+description: "Plugin preventing accessing players on the nether roof"
+
+commands:
